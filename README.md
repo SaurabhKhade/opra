@@ -1,7 +1,7 @@
 # OPRA Internship Project
-#### [Link to page](https://saurabhkhade.github.io/opra/)
+#### [Link not available](https://github.com/SaurabhKhade/opra/#)
 
-## Contributors
+### Contributors
 ##### [Saurabh Khade](https://github.com/SaurabhKhade)
-##### [Ganesh Wadikar](https://github.com/)
-##### [Vikas Bhosale](https://github.com/)
+##### [Ganesh Wadikar](https://github.com/SaurabhKhade/opra/#)
+##### [Vikas Bhosale](https://github.com/SaurabhKhade/opra/#)

@@ -1,19 +1,10 @@
 <?php 
-  include './templates/start_document.php';
-  include './templates/end_document.php';
+  $document_title = "Profile";
 
-  start_document("Course List");
+  include './templates/start_document.php';
+  include_once './templates/navbar.php';
 ?>
 
-//write your code from here, start code directly which is to be added in body. All other tags will be added automatically
-//html
-//head
-//body
-
-
-//body
-//html
-
 <?php 
-  end_document();
+  include './templates/end_document.php';
 ?>

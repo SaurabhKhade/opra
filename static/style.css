@@ -1,0 +1,16 @@
+.shadow-down {
+  box-shadow: 0 2px 6px grey;
+}
+
+.nav-link {
+  font-weight: bold !important;
+  color: black !important;
+}
+
+.active {
+  color: orange !important;
+}
+
+.active .nav-link {
+  color: orange !important;
+}
